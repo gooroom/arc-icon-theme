@@ -1,3 +1,12 @@
+arc-icon-theme (20161113) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [ef06d096] Modified Architecture to all in control
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 13 Nov 2017 19:14:04 +0900
+
 arc-icon-theme (20161112) unstable; urgency=medium
 
   * Initial Release.
