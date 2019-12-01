@@ -1,3 +1,12 @@
+arc-icon-theme (20161113+grm2u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [81f02a42] Updated copyright
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 01 Dec 2019 14:13:35 +0900
+
 arc-icon-theme (20161113) unstable; urgency=medium
 
   [ jongkyung.woo ]
